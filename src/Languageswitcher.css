@@ -1,0 +1,14 @@
+
+
+.switcher{
+
+    margin-top: 5px;
+
+    /* margin-bottom: 10px; */
+}
+button{
+    background-color:white;
+    padding: 10px;
+    margin: 4px;
+    border-radius: 10px;
+}
